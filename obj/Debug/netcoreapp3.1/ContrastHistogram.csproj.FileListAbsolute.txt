@@ -1,0 +1,15 @@
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\bin\Debug\netcoreapp3.1\ContrastHistogram.exe
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\bin\Debug\netcoreapp3.1\ContrastHistogram.deps.json
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\bin\Debug\netcoreapp3.1\ContrastHistogram.runtimeconfig.json
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\bin\Debug\netcoreapp3.1\ContrastHistogram.runtimeconfig.dev.json
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\bin\Debug\netcoreapp3.1\ContrastHistogram.dll
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\bin\Debug\netcoreapp3.1\ContrastHistogram.pdb
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\obj\Debug\netcoreapp3.1\ContrastHistogram.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\obj\Debug\netcoreapp3.1\ContrastHistogram.Form1.resources
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\obj\Debug\netcoreapp3.1\ContrastHistogram.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\obj\Debug\netcoreapp3.1\ContrastHistogram.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\obj\Debug\netcoreapp3.1\ContrastHistogram.AssemblyInfo.cs
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\obj\Debug\netcoreapp3.1\ContrastHistogram.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\obj\Debug\netcoreapp3.1\ContrastHistogram.dll
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\obj\Debug\netcoreapp3.1\ContrastHistogram.pdb
+C:\Users\Artur\source\repos\ContrastHistogram\ContrastHistogram\obj\Debug\netcoreapp3.1\ContrastHistogram.genruntimeconfig.cache
