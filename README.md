@@ -13,7 +13,7 @@ Program wykorzystuje algorytmy na zmianę kontrastu oraz tworzy histogramy dla s
 *  <b>v’(x,y) = (127 / (127 - Δc)) * (v(x, y) - Δc)</b> = zwiększanie kontrastu 
 *  <b>v’(x,y) = ((127 + Δc) / 127) * v(x, y) - Δc</b> = zmniejszenie kontrastu 
 
-gdzie <b>Δc</b> jest wartością kontrastu w zakresie [0..127] dla przypadku zwiększania
+gdzie <b>Δc</b> jest wartością kontrastu w zakresie [0..127] dla przypadku zwiększania<br>
  i wartością kontrastu w zakresie [−128..0) dla przypadku zmniejszania.
  
 <h3>Kontrast  poprzez zmianę kąta nachylenia prostej na wykresie odwzorowania kolorów, ale osobno dla jasnych i osobno dla ciemnych punktów:</h3>
@@ -28,7 +28,7 @@ b)
 <b>(127*v(x,y)+255*Δc)/(127+Δc) </b>&nbsp;&nbsp;dla &nbsp;&nbsp;&nbsp;<b>v(x,y)>127-Δc </b><br>
 <b>127</b> dla pozostałych 
 
-Przypadek (a) zwiększa kontrast obrazu dla parametru <b>0 < Δc < 127 </b>
+Przypadek (a) zwiększa kontrast obrazu dla parametru <b>0 < Δc < 127 </b><br>
 Przypadek (b) zmniejsza kontrast obrazu dla parametru <b>−127 < Δc < 0</b>
 
 	
