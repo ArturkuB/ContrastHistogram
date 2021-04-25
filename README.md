@@ -20,7 +20,7 @@ gdzie <b>Δc</b> jest wartością kontrastu w zakresie [0..127] dla przypadku zw
  <img src="https://i.imgur.com/sMUC5tQ.png" width="300" height="300">
 
 a) 
-<b>v’(x,y)= (127-Δc)/127)*v(x,y)</b>  &nbsp;&nbsp;&nbsp;dla  &nbsp;&nbsp;&nbsp;&nbsp;<b>v(x,y)<127 </b>
+<b>v’(x,y)= (127-Δc)/127)*v(x,y)</b>  &nbsp;&nbsp;&nbsp;dla  &nbsp;&nbsp;&nbsp;&nbsp;<b>v(x,y)<127 </b><br>
 <b>(127-Δc)/127)*v(x,y)+2Δc</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dla <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v(x,y)≥127 </b>
 
 b) 
