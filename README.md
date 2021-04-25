@@ -25,7 +25,7 @@ a)
 
 b) 
 <b>v’(x,y)= (127/(127+Δc))*v(x,y)</b> &nbsp;&nbsp;&nbsp;&nbsp;dla <b>&nbsp;&nbsp;&nbsp;v(x,y)<127+Δc </b><br>
-<b>(127*v(x,y)+255*Δc)/(127+Δc) </b>&nbsp;&nbsp;dla &nbsp;&nbsp;&nbsp;<b>v(x,y)>127-Δc </b>
+<b>(127*v(x,y)+255*Δc)/(127+Δc) </b>&nbsp;&nbsp;dla &nbsp;&nbsp;&nbsp;<b>v(x,y)>127-Δc </b><br>
 <b>127</b> dla pozostałych 
 
 Przypadek (a) zwiększa kontrast obrazu dla parametru <b>0 < Δc < 127 </b>
